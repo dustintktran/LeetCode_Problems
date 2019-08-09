@@ -1,0 +1,14 @@
+{
+  "name": "candy",
+  "version": "1.0.0",
+  "description": "There are N children standing in a line. Each child is assigned a rating value.",
+  "main": "candy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^12.8.0"
+  }
+}
