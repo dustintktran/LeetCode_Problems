@@ -1,0 +1,22 @@
+{
+  "name": "leetcode_problems",
+  "version": "1.0.0",
+  "description": "A bunch of leet code problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustintktran/LeetCode_Problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustintktran/LeetCode_Problems/issues"
+  },
+  "homepage": "https://github.com/dustintktran/LeetCode_Problems#readme",
+  "dependencies": {
+    "node": "^12.8.0"
+  }
+}
